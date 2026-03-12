@@ -30,7 +30,7 @@ Authentication uses firebase Phone OTP verification, and the server also support
 
 ---
 
-## How to Set Up
+## Quick Set Up
 
 ### Client 
 1. Clone repo:
@@ -39,6 +39,12 @@ Authentication uses firebase Phone OTP verification, and the server also support
 > flutter pub get
 3. Run App:
 > flutter run
+
+### Server
+1. clone repo:
+> https://github.com/romelt777/chat-app-server
+2. run server
+> npm run dev
 
 
 ---
