@@ -12,6 +12,10 @@ Authentication uses firebase Phone OTP verification, and the server also support
 
 ---
 
+## Screenshots/Gifs
+
+---
+
 ## Tech Stack
 
 ### Client
@@ -26,9 +30,8 @@ Authentication uses firebase Phone OTP verification, and the server also support
 
 ---
 
-## Repositories
+## How to Set Up
 
-- **Frontend:** https://github.com/romelt777/ChatApp 
-- **Backend:** https://github.com/romelt777/chat-app-server  
+
 
 ---
