@@ -32,6 +32,13 @@ Authentication uses firebase Phone OTP verification, and the server also support
 
 ## How to Set Up
 
+### Client 
+1. Clone repo:
+- clone https://github.com/romelt777/ChatApp
+2. Install packages:
+- flutter pub get
+3. Run App:
+- flutter run
 
 
 ---
