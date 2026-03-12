@@ -1,7 +1,7 @@
 # WhatsApp Clone (Flutter + Node.js + TypeScript + Socket.IO)
 
 A chat app built with Flutter and a Node.js (TypeScript) backend using Socket.IO for real-time messaging.  
-Authentication uses *irebase Phone OTP verification, and the server also supports image messaging/uploads.
+Authentication uses firebase Phone OTP verification, and the server also supports image messaging/uploads.
 
 ---
 
