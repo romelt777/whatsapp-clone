@@ -17,6 +17,8 @@ Authentication uses firebase Phone OTP verification, and the server also support
   <img src="./docs/WHATSAPP-OTP2.gif" width="150">
   <img src="./docs/send-messages.gif" width="350">
   <img src="./docs/image-messages.gif" width="350">
+  <img src="./docs/walkthrough.gif" width="350">
+
 
 
 ---
